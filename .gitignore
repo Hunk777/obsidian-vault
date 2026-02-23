@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/themes/*/manifest.json
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.swp
+*~
+
+# Large files
+*.mp4
+*.mov
+*.avi
+*.zip
+*.tar.gz
